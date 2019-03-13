@@ -1,0 +1,1 @@
+This is a bad file, will be completely removed from git.
